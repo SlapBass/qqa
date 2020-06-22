@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "author": "Chicken"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Some text",
+      "postId": "i don't know"
+    }
+  ],
+  "profile": {
+    "name": "Ernesto"
+  }
+}
